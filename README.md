@@ -493,7 +493,7 @@ export const educationData = [
 <div>
     <table>
         <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://scontent.fcjb5-1.fna.fbcdn.net/v/t39.30808-6/279974914_1028525474714898_2441371873948422867_n.jpg?stp=dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=eiPpNAz_re8AX8oJS8N&_nc_ht=scontent.fcjb5-1.fna&oh=00_AT_QvR0gQSCQv2DXlZleAhN7RpPLAsHmddkFC4mH8CuUmQ&oe=62927191" width="135px;" height="135px;" alt=""/><br /><b>Ajitth Kumar M</b></a></td>
+            <td align="center"><a href="https://github.com/ajitharunai"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy_vXgDhUI1X9xVD9d342C8TqU8Vu6Pq91FYJ3hDxF1ptIvhrCOIqxHJVUGK6CDjElvVEsN3oNNAgODRiPP2IPnO5EiU_jFpEmX1xRdZMLTtnTYQvOBHwHR8Bhx48y6yPpVnwnweQx1vU5mYe5dIU1dnPlrMVUo3c66M7aLmRLBZPajyjlal3xeDsq/s16000/github%20profile.jpg" width="135px;" height="135px;" alt=""/><br /><b>Ajitth Kumar M</b></a></td>
             <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
         </tr>
     </table>
