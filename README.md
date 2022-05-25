@@ -88,7 +88,7 @@
 ### Purple :purple_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdfdNFDYvEIjKxQbJrH9jGPHe64BkY2YTpVz3kzqmXCaxepC80u5xyi6vc1IdTKL-hkCT1BXEtGh7jRlmzleGAyF7a04ZWqNm5Ae8y9kB38v9ZiKxZMnH_IEIVb6RwGpQkAH2ve77KGbJK1bIKosETpIrNwmZthhfNgDeCkb5kt2-mj96iXpkdT5p/s16000/Screenshot%202022-05-25%20083332.jpg" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdfdNFDYvEIjKxQbJrH9jGPHe64BkY2YTpVz3kzqmXCaxepC80u5xyi6vc1IdTKL-hkCT1BXEtGh7jRlmzleGAyF7a04ZWqNm5Ae8y9kB38v9ZiKxZMnH_IEIVb6RwGpQkAH2ve77KGbJK1bIKosETpIrNwmZthhfNgDeCkb5kt2-mj96iXpkdT5p/s16000/Screenshot%202022-05-25%20083332.jpg" width="100%" alt="">
    
 </div>
 
@@ -97,7 +97,6 @@
 ### Pink 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/pinkThemeLight.png" width="48%" alt="">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdfdNFDYvEIjKxQbJrH9jGPHe64BkY2YTpVz3kzqmXCaxepC80u5xyi6vc1IdTKL-hkCT1BXEtGh7jRlmzleGAyF7a04ZWqNm5Ae8y9kB38v9ZiKxZMnH_IEIVb6RwGpQkAH2ve77KGbJK1bIKosETpIrNwmZthhfNgDeCkb5kt2-mj96iXpkdT5p/s16000/Screenshot%202022-05-25%20083332.jpg" width="48%" alt="">
 </div>
 
@@ -106,7 +105,7 @@
 ### Yellow :yellow_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPAzoEkebPc79DCuss_gUjLeIDJrKPaAbz09R80oEr_qS1utNwf9dhVkoZcmBZjgiXCCIsPPgtA5sYrxxyZzKNnVYqwMGVDwPhbCDSGOrmO9tff99AZEiAzmKt6St-c7r9VTYxQDS9eNEeU5QRYk7QEj0zBrhaTZ9BTSEbkrhZ-gxIR-1MOkv_m6F5/s16000/Screenshot%202022-05-25%20083431.jpg" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPAzoEkebPc79DCuss_gUjLeIDJrKPaAbz09R80oEr_qS1utNwf9dhVkoZcmBZjgiXCCIsPPgtA5sYrxxyZzKNnVYqwMGVDwPhbCDSGOrmO9tff99AZEiAzmKt6St-c7r9VTYxQDS9eNEeU5QRYk7QEj0zBrhaTZ9BTSEbkrhZ-gxIR-1MOkv_m6F5/s16000/Screenshot%202022-05-25%20083431.jpg" width="100%" alt="">
     
 </div>
 
