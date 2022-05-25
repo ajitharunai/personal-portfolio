@@ -61,7 +61,7 @@
 ### Black & White :black_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji18m6Cn-t2FFD-41BvmLH9mH7wikLDIyN9TRJ8y2tRkIMgQKmCe8ezMoyzkt6qC7gWbYM6cRTDNfT6k_VuqavLH4nWQUnxPmm99AqLJtwp90DfHa5I2agTFVYI3XmMNqepor0R2uhtlJEo-b9ZHrYoAVQ6TgIW_mRdN-txasrrYAJ9O6q_Vr2PU71/s16000/Screenshot%202022-05-25%20083032.jpg" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji18m6Cn-t2FFD-41BvmLH9mH7wikLDIyN9TRJ8y2tRkIMgQKmCe8ezMoyzkt6qC7gWbYM6cRTDNfT6k_VuqavLH4nWQUnxPmm99AqLJtwp90DfHa5I2agTFVYI3XmMNqepor0R2uhtlJEo-b9ZHrYoAVQ6TgIW_mRdN-txasrrYAJ9O6q_Vr2PU71/s16000/Screenshot%202022-05-25%20083032.jpg" width="100%" alt="">
   
 </div>
 <br />
@@ -69,7 +69,7 @@
 ### Blue :large_blue_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWs-Krk5PDElnZfONX-kU_AQVmg45-HhzxIMABJJvMgpueyi1fEkU745kA_ryqRtruwTF_HOOZzlHL033aSkXFnuMHKiz1ViiCS-6WsQjI7Bnv14ApuUJcwWfaGaeiKIBaDq3nLuDS2vx4TNPZIsRnfv1br3TsuytmoZXiAQ8oDsYScOUD_RrrgP0U/s16000/Screenshot%202022-05-25%20083143.jpg" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWs-Krk5PDElnZfONX-kU_AQVmg45-HhzxIMABJJvMgpueyi1fEkU745kA_ryqRtruwTF_HOOZzlHL033aSkXFnuMHKiz1ViiCS-6WsQjI7Bnv14ApuUJcwWfaGaeiKIBaDq3nLuDS2vx4TNPZIsRnfv1br3TsuytmoZXiAQ8oDsYScOUD_RrrgP0U/s16000/Screenshot%202022-05-25%20083143.jpg" width="100%" alt="">
   
 </div>
 
@@ -78,7 +78,7 @@
 ### Red :red_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IeBywdn5xAtsRFLH-Ke0cObMm-SY2_iFNeu92OClyf8uK4aluJ1ps1mqVfznXmgth4Xvb43wzcZ6z_EsBv9DSf6uwMjfWvrPkeqpuQKceYkX-Mc5WIKmdX5mrXHzLfNXGuJcFXEOfJESemzyXMa82yViokAv8znWVxR3U0sdqLgRQULnAkr_htMw/s16000/Screenshot%202022-05-25%20083233.jpg" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IeBywdn5xAtsRFLH-Ke0cObMm-SY2_iFNeu92OClyf8uK4aluJ1ps1mqVfznXmgth4Xvb43wzcZ6z_EsBv9DSf6uwMjfWvrPkeqpuQKceYkX-Mc5WIKmdX5mrXHzLfNXGuJcFXEOfJESemzyXMa82yViokAv8znWVxR3U0sdqLgRQULnAkr_htMw/s16000/Screenshot%202022-05-25%20083233.jpg" width="100%" alt="">
     
 </div>
 
@@ -97,7 +97,7 @@
 ### Pink 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdfdNFDYvEIjKxQbJrH9jGPHe64BkY2YTpVz3kzqmXCaxepC80u5xyi6vc1IdTKL-hkCT1BXEtGh7jRlmzleGAyF7a04ZWqNm5Ae8y9kB38v9ZiKxZMnH_IEIVb6RwGpQkAH2ve77KGbJK1bIKosETpIrNwmZthhfNgDeCkb5kt2-mj96iXpkdT5p/s16000/Screenshot%202022-05-25%20083332.jpg" width="48%" alt="">
+    <img src="" width="48%" alt="">
 </div>
 
 <br />
@@ -493,7 +493,7 @@ export const educationData = [
 <div>
     <table>
         <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEwD1esKhvEk9YgOCOLwoSopTUdg-GJE6fTbnbDSUpauv-KwoJ-C6TaS7JteO-uuWXekvq-83n5Ohy-7C6Jf2whQe-v4XbXzr0AHU5tB5UX2dOu69uxM_igYbZ2sDnrzhCKBuBDHqDV2u4zK0T_fY13VpRT3Ptrsis349YMqmi6tHiZ3MCwaePQOYC/s16000/profile.png" width="135px;" height="135px;" alt=""/><br /><b>Ajitth Kumar M</b></a></td>
+            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://scontent.fcjb5-1.fna.fbcdn.net/v/t39.30808-6/281284484_1036833980550714_8319785709864535537_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=5QiZcI-Atb8AX_AjSKe&_nc_ht=scontent.fcjb5-1.fna&oh=00_AT_oNOC7lFEkSoc3l03O3UtRtoMZHdhx64EL4D3DoMaf7g&oe=62929442" width="135px;" height="135px;" alt=""/><br /><b>Ajitth Kumar M</b></a></td>
             <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
         </tr>
     </table>
