@@ -1,7 +1,7 @@
 # Developer Portfolio 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PhantomScript/asset-container/b26b0ebaaa13bec7fac796ee0b8296676df6ee0b/developer-portfolio/website.svg" alt="" width="450px"/>
+<img src="https://www.lifewire.com/thmb/3vShjE3n8DyZGRpjmGmHr2O_N3g=/900x0/filters:no_upscale():max_bytes(150000):strip_icc():gifv():format(webp)/web-development-473456596-5b6313934cedfd0050a89a1e.jpg" alt="" width="450px"/>
 </p>
 
 ## Want to create a professional portfolio but cannot figure out how to? Use Developer Portfolio and create your own personalised portfolio today! With multiple themes to choose from, our easily customisable, user friendly website is designed to cater to developers and freelancers alike.
@@ -45,7 +45,7 @@
 
 # Demo :movie_camera:
 ![](https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/demo.gif)
-## View live demo [here](https://dev-portfolio-template.netlify.app/).
+## View live demo [here](https://ajitharunai.netlify.app/).
 
 <br />
 
