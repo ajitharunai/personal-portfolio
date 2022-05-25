@@ -53,24 +53,24 @@
 ### Green :green_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/greenThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/greenThemeDark.png" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQvK1YYGoALw9zpDC7q5QM6r0BtqJym8-3I0HB4l_l35EMR1YDP6-LEgRB44AdbuiwrZe69Nx8AKsjlr8_gqpn4rJW1POOHuawj_0dI5qNgmkUJ-N15fB6e8DnmUcU7c8BIay-rhRXTci_S-Kb6Uptp7wWLDkqhimBYKJNEh0BOAh2Ign28tAfBUE4/s16000/M-FEJMZ0_400x400.jpg" width="48%" alt="">
+   
 </div>
 <br />
 
 ### Black & White :black_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/bwThemeDark.png" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji18m6Cn-t2FFD-41BvmLH9mH7wikLDIyN9TRJ8y2tRkIMgQKmCe8ezMoyzkt6qC7gWbYM6cRTDNfT6k_VuqavLH4nWQUnxPmm99AqLJtwp90DfHa5I2agTFVYI3XmMNqepor0R2uhtlJEo-b9ZHrYoAVQ6TgIW_mRdN-txasrrYAJ9O6q_Vr2PU71/s16000/Screenshot%202022-05-25%20083032.jpg" width="48%" alt="">
+  
 </div>
 <br />
 
 ### Blue :large_blue_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/blueThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/blueThemeDark.png" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWs-Krk5PDElnZfONX-kU_AQVmg45-HhzxIMABJJvMgpueyi1fEkU745kA_ryqRtruwTF_HOOZzlHL033aSkXFnuMHKiz1ViiCS-6WsQjI7Bnv14ApuUJcwWfaGaeiKIBaDq3nLuDS2vx4TNPZIsRnfv1br3TsuytmoZXiAQ8oDsYScOUD_RrrgP0U/s16000/Screenshot%202022-05-25%20083143.jpg" width="48%" alt="">
+  
 </div>
 
 <br />
@@ -78,26 +78,18 @@
 ### Red :red_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/redThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/redThemeDark.png" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1IeBywdn5xAtsRFLH-Ke0cObMm-SY2_iFNeu92OClyf8uK4aluJ1ps1mqVfznXmgth4Xvb43wzcZ6z_EsBv9DSf6uwMjfWvrPkeqpuQKceYkX-Mc5WIKmdX5mrXHzLfNXGuJcFXEOfJESemzyXMa82yViokAv8znWVxR3U0sdqLgRQULnAkr_htMw/s16000/Screenshot%202022-05-25%20083233.jpg" width="48%" alt="">
+    
 </div>
 
 <br />
 
-### Orange :orange_circle:
-
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/orangeThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/orangeThemeDark.png" width="48%" alt="">
-</div>
-
-<br />
 
 ### Purple :purple_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/purpleThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/purpleThemeDark.png" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdfdNFDYvEIjKxQbJrH9jGPHe64BkY2YTpVz3kzqmXCaxepC80u5xyi6vc1IdTKL-hkCT1BXEtGh7jRlmzleGAyF7a04ZWqNm5Ae8y9kB38v9ZiKxZMnH_IEIVb6RwGpQkAH2ve77KGbJK1bIKosETpIrNwmZthhfNgDeCkb5kt2-mj96iXpkdT5p/s16000/Screenshot%202022-05-25%20083332.jpg" width="48%" alt="">
+   
 </div>
 
 <br />
@@ -106,7 +98,7 @@
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/pinkThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/pinkThemeDark.png" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBdfdNFDYvEIjKxQbJrH9jGPHe64BkY2YTpVz3kzqmXCaxepC80u5xyi6vc1IdTKL-hkCT1BXEtGh7jRlmzleGAyF7a04ZWqNm5Ae8y9kB38v9ZiKxZMnH_IEIVb6RwGpQkAH2ve77KGbJK1bIKosETpIrNwmZthhfNgDeCkb5kt2-mj96iXpkdT5p/s16000/Screenshot%202022-05-25%20083332.jpg" width="48%" alt="">
 </div>
 
 <br />
@@ -114,8 +106,8 @@
 ### Yellow :yellow_circle:
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/yellowThemeLight.png" width="48%" alt="">
-    <img src="https://raw.githubusercontent.com/PhantomScript/asset-container/main/developer-portfolio/themes/yellowThemeDark.png" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPAzoEkebPc79DCuss_gUjLeIDJrKPaAbz09R80oEr_qS1utNwf9dhVkoZcmBZjgiXCCIsPPgtA5sYrxxyZzKNnVYqwMGVDwPhbCDSGOrmO9tff99AZEiAzmKt6St-c7r9VTYxQDS9eNEeU5QRYk7QEj0zBrhaTZ9BTSEbkrhZ-gxIR-1MOkv_m6F5/s16000/Screenshot%202022-05-25%20083431.jpg" width="48%" alt="">
+    
 </div>
 
 <br /> <br />
@@ -502,8 +494,7 @@ export const educationData = [
 <div>
     <table>
         <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://hhhrrrttt222111.web.app/static/media/dp.5f7c380f.jpeg" width="135px;" height="135px;" alt=""/><br /><b>Hemanth R</b></a></td>
-            <td align="center"><a href="https://github.com/ShimilSAbraham"><img src="https://raw.githubusercontent.com/ShimilSAbraham/Blender_Works/main/profile_shimil.jpeg" width="135px;" height="135px; alt=""/><br /><b>Shimil S Abraham</b></a></td>
+            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEwD1esKhvEk9YgOCOLwoSopTUdg-GJE6fTbnbDSUpauv-KwoJ-C6TaS7JteO-uuWXekvq-83n5Ohy-7C6Jf2whQe-v4XbXzr0AHU5tB5UX2dOu69uxM_igYbZ2sDnrzhCKBuBDHqDV2u4zK0T_fY13VpRT3Ptrsis349YMqmi6tHiZ3MCwaePQOYC/s16000/profile.png" width="135px;" height="135px;" alt=""/><br /><b>Ajitth Kumar M</b></a></td>
             <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
         </tr>
     </table>
