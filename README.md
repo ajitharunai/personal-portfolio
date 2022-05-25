@@ -97,7 +97,7 @@
 ### Pink 
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="" width="48%" alt="">
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPAzoEkebPc79DCuss_gUjLeIDJrKPaAbz09R80oEr_qS1utNwf9dhVkoZcmBZjgiXCCIsPPgtA5sYrxxyZzKNnVYqwMGVDwPhbCDSGOrmO9tff99AZEiAzmKt6St-c7r9VTYxQDS9eNEeU5QRYk7QEj0zBrhaTZ9BTSEbkrhZ-gxIR-1MOkv_m6F5/s1906/Screenshot%202022-05-25%20083431.jpg" width="100%" alt="">
 </div>
 
 <br />
@@ -107,7 +107,7 @@
 <div style="display: flex; justify-content: space-between;">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPAzoEkebPc79DCuss_gUjLeIDJrKPaAbz09R80oEr_qS1utNwf9dhVkoZcmBZjgiXCCIsPPgtA5sYrxxyZzKNnVYqwMGVDwPhbCDSGOrmO9tff99AZEiAzmKt6St-c7r9VTYxQDS9eNEeU5QRYk7QEj0zBrhaTZ9BTSEbkrhZ-gxIR-1MOkv_m6F5/s16000/Screenshot%202022-05-25%20083431.jpg" width="100%" alt="">
     
-</div>
+</div>                       
 
 <br /> <br />
 
@@ -493,7 +493,7 @@ export const educationData = [
 <div>
     <table>
         <tr>
-            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://scontent.fcjb5-1.fna.fbcdn.net/v/t39.30808-6/281284484_1036833980550714_8319785709864535537_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=5QiZcI-Atb8AX_AjSKe&_nc_ht=scontent.fcjb5-1.fna&oh=00_AT_oNOC7lFEkSoc3l03O3UtRtoMZHdhx64EL4D3DoMaf7g&oe=62929442" width="135px;" height="135px;" alt=""/><br /><b>Ajitth Kumar M</b></a></td>
+            <td align="center"><a href="https://github.com/hhhrrrttt222111"><img src="https://scontent.fcjb5-1.fna.fbcdn.net/v/t39.30808-6/279974914_1028525474714898_2441371873948422867_n.jpg?stp=dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=eiPpNAz_re8AX8oJS8N&_nc_ht=scontent.fcjb5-1.fna&oh=00_AT_QvR0gQSCQv2DXlZleAhN7RpPLAsHmddkFC4mH8CuUmQ&oe=62927191" width="135px;" height="135px;" alt=""/><br /><b>Ajitth Kumar M</b></a></td>
             <td align="center"><a href="https://github.com/Gayathry17"><img src="https://iamgayathrysuresh.web.app/static/media/gAvatar.37897d13.jpeg" width="135px;" height="135px; alt=""/><br /><b>Gayathry S</b></a></td>
         </tr>
     </table>
