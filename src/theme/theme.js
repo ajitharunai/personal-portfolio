@@ -8,7 +8,7 @@ import {
 } from './images'
 
 
-export const greenThemeLight = {
+export const purpleThemeLight= {
     type: 'light',
     primary: '#3fc337',
     primary400: '#57d750',
