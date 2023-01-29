@@ -1,7 +1,7 @@
 export const socialsData = {
     github: 'https://github.com/ajitharunai',
     facebook: 'https://www.facebook.com/ajithkumar.m.9216778',
-    linkedIn: 'https://www.linkedin.com/in/ajith-kumar-m-7897541b4/',
+    linkedIn: 'https://www.linkedin.com/in/ajitharunai/',
     instagram: 'https://www.instagram.com/ajithkumar_arunai/',
     codepen: 'https://codepen.io/ajitharunai',
     twitter: 'https://twitter.com/ajitharunai',
