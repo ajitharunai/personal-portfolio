@@ -28,7 +28,7 @@ export const testimonialsData = [
         name: 'Phoebe Buffay',
         title: 'Massuese',
         text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-        image: 
+        image: girl1
     },
     {
         id: 4,
